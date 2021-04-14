@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.andlancer.todofl.MainActivity">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Список задач" />
+    <item
+        android:id="@+id/archiveFragment"
+        android:title="Архив" />
+</menu>
